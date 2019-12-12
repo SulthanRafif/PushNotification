@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="siswa">Siswa</string>
+    <string name="guru">Guru</string>
+    <string name="mata_pelajaran">Mata Pelajaran</string>
+    <string name="ekstrakurikuler">Ekstrakurikuler</string>
+    <string name="blank">-</string>
+    <string name="submit">Submit</string>
+</resources>
